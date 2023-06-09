@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about bridging the gap between imagination and reality using code.
+I am passionate about bridging the gap between imagination and reality using code!
 
 
 ## 🌐 Socials:
